@@ -1,0 +1,589 @@
+{
+  "message": "Marília Mendonça",
+  "playlists": {
+    "href": "https://api.spotify.com/v1/browse/categories/0JQ5DAqbMKFNN285FvRwOf/playlists?offset=0&limit=20&locale=pt-BR,pt;q%3D0.9,en-US;q%3D0.8,en;q%3D0.7",
+    "items": [
+      {
+        "collaborative": false,
+        "description": "<a href=\"http://marilia.com.vc\">This Is Marília Mendonça</a>, 5 de outubro em São Paulo!",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXc5EXfkDXlmk"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXc5EXfkDXlmk",
+        "id": "37i9dQZF1DXc5EXfkDXlmk",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002d51382ea50ecdaefa2a1b12c",
+            "width": null
+          }
+        ],
+        "name": "This Is Marília Mendonça",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#FFFFFF",
+        "public": true,
+        "snapshot_id": "ZqkG1QAAAABR9gW+ntDwKgUSHHeceY72",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXc5EXfkDXlmk/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXc5EXfkDXlmk"
+      },
+      {
+        "collaborative": false,
+        "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/3CH9xcBMcPM0zZlVW3OgW1\">Marília Mendonça</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1EFHLV2noe5gSo"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EFHLV2noe5gSo",
+        "id": "37i9dQZF1EFHLV2noe5gSo",
+        "images": [
+          {
+            "height": null,
+            "url": "https://image-cdn-ak.spotifycdn.com/image/ab676d63000076a09b70273128db7729fc231688",
+            "width": null
+          }
+        ],
+        "name": "Written By Marília Mendonça",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "AbbQrgAAAAAzVj5q3PkU/lgc6EMPt8yi",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EFHLV2noe5gSo/tracks",
+          "total": 162
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1EFHLV2noe5gSo"
+      },
+      {
+        "collaborative": false,
+        "description": "Todas as músicas de amor da Rainha.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXbqGyNSQ96BN"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXbqGyNSQ96BN",
+        "id": "37i9dQZF1DXbqGyNSQ96BN",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002762cbffa1425f012a18e7072",
+            "width": null
+          }
+        ],
+        "name": "Marília Romance",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "Zp6QSwAAAAAXEOB3cellO47UnNWQveHd",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXbqGyNSQ96BN/tracks",
+          "total": 40
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXbqGyNSQ96BN"
+      },
+      {
+        "collaborative": false,
+        "description": "Um guia prático pra sofrer demais, com as melhores da Rainha!",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4yBwHEPjkuo"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4yBwHEPjkuo",
+        "id": "37i9dQZF1DX4yBwHEPjkuo",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002bce4a897b3710e024a830611",
+            "width": null
+          }
+        ],
+        "name": "Marília Sofrência",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "Zp6QQQAAAADtspQJ5uVKIcbwiL0WjUYL",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4yBwHEPjkuo/tracks",
+          "total": 53
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX4yBwHEPjkuo"
+      },
+      {
+        "collaborative": false,
+        "description": "Ninguém cantou tão bem a dor e delícia de ser mulher quanto ela.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX6pM4BQP0zmi"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6pM4BQP0zmi",
+        "id": "37i9dQZF1DX6pM4BQP0zmi",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002586b9069ddd1dc7586fc841f",
+            "width": null
+          }
+        ],
+        "name": "Marília Mulher",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "Zp6QVQAAAACnRN5RXX9IOI2e/UorQYJo",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX6pM4BQP0zmi/tracks",
+          "total": 30
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX6pM4BQP0zmi"
+      },
+      {
+        "collaborative": false,
+        "description": "As canetadas da Rainha cantadas por outros grandes artistas.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXcn8PfyG113x"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcn8PfyG113x",
+        "id": "37i9dQZF1DXcn8PfyG113x",
+        "images": [
+          {
+            "height": null,
+            "url": "https://i.scdn.co/image/ab67706f00000002c139d3e3c3421f0e7065ce5e",
+            "width": null
+          }
+        ],
+        "name": "Marília Em Outras Vozes",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": "#ffffff",
+        "public": true,
+        "snapshot_id": "Zp6QfgAAAAB10fYrEVJCv6ASKphwCqPy",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcn8PfyG113x/tracks",
+          "total": 75
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXcn8PfyG113x"
+      },
+      {
+        "collaborative": false,
+        "description": "This is Murilo Huff. Todos os maiores hits em uma só playlist.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1TVxHf"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO1TVxHf",
+        "id": "37i9dQZF1DZ06evO1TVxHf",
+        "images": [
+          {
+            "height": null,
+            "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO1TVxHf-default.jpg",
+            "width": null
+          }
+        ],
+        "name": "This Is Murilo Huff",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "ZtZRgAAAAAD5AAphXfuNxxmolLMBqD6x",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO1TVxHf/tracks",
+          "total": 51
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DZ06evO1TVxHf"
+      },
+      {
+        "collaborative": false,
+        "description": "This is Zé Neto & Cristiano. Todos os maiores hits em uma só playlist.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pDoLC"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO2pDoLC",
+        "id": "37i9dQZF1DZ06evO2pDoLC",
+        "images": [
+          {
+            "height": null,
+            "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO2pDoLC-default.jpg",
+            "width": null
+          }
+        ],
+        "name": "This Is Zé Neto & Cristiano",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "ZtZRgAAAAADVe/AT6u2RyfWrf0bnFqkg",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO2pDoLC/tracks",
+          "total": 51
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DZ06evO2pDoLC"
+      },
+      {
+        "collaborative": false,
+        "description": "This is LUDMILLA. Todos os maiores hits em uma só playlist.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO26GFPO"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO26GFPO",
+        "id": "37i9dQZF1DZ06evO26GFPO",
+        "images": [
+          {
+            "height": null,
+            "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO26GFPO-default.jpg",
+            "width": null
+          }
+        ],
+        "name": "This Is LUDMILLA",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "ZtZRgAAAAAA1hkFE1f3ZIMH7eDoRCxJt",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO26GFPO/tracks",
+          "total": 43
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DZ06evO26GFPO"
+      },
+      {
+        "collaborative": false,
+        "description": "This is Luiza Martins. Todos os maiores hits em uma só playlist.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wt7Oh"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO3wt7Oh",
+        "id": "37i9dQZF1DZ06evO3wt7Oh",
+        "images": [
+          {
+            "height": null,
+            "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO3wt7Oh-default.jpg",
+            "width": null
+          }
+        ],
+        "name": "This Is Luiza Martins",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "ZtZRgAAAAACzABeERE00O2q7SfPteFly",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO3wt7Oh/tracks",
+          "total": 34
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DZ06evO3wt7Oh"
+      },
+      {
+        "collaborative": false,
+        "description": "This is Jão. Todos os maiores hits em uma só playlist.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO31S3Vp"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO31S3Vp",
+        "id": "37i9dQZF1DZ06evO31S3Vp",
+        "images": [
+          {
+            "height": null,
+            "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO31S3Vp-default.jpg",
+            "width": null
+          }
+        ],
+        "name": "This Is Jão",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "ZtZRgAAAAABxM6RrP8Cf6KhggQp2W3Id",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO31S3Vp/tracks",
+          "total": 36
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DZ06evO31S3Vp"
+      },
+      {
+        "collaborative": false,
+        "description": "This is Péricles. Todos os maiores hits em uma só playlist.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3HnA7C"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO3HnA7C",
+        "id": "37i9dQZF1DZ06evO3HnA7C",
+        "images": [
+          {
+            "height": null,
+            "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO3HnA7C-default.jpg",
+            "width": null
+          }
+        ],
+        "name": "This Is Péricles",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "ZtZRgAAAAACjFqZxvbqdUxCm9B9DJbrw",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO3HnA7C/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DZ06evO3HnA7C"
+      },
+      {
+        "collaborative": false,
+        "description": "This is Luísa Sonza. Todos os maiores hits em uma só playlist.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PMJGB"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO2PMJGB",
+        "id": "37i9dQZF1DZ06evO2PMJGB",
+        "images": [
+          {
+            "height": null,
+            "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO2PMJGB-default.jpg",
+            "width": null
+          }
+        ],
+        "name": "This Is Luísa Sonza",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "ZtZRgAAAAAB2jFiCul5p1tqA3iaYiQyf",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO2PMJGB/tracks",
+          "total": 38
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DZ06evO2PMJGB"
+      },
+      {
+        "collaborative": false,
+        "description": "This is Yasmin Santos. Todos os maiores hits em uma só playlist.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO31xZp5"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO31xZp5",
+        "id": "37i9dQZF1DZ06evO31xZp5",
+        "images": [
+          {
+            "height": null,
+            "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO31xZp5-default.jpg",
+            "width": null
+          }
+        ],
+        "name": "This Is Yasmin Santos",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "ZtZRgAAAAADGy6B64nqLDuWuRyivkfOf",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO31xZp5/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DZ06evO31xZp5"
+      },
+      {
+        "collaborative": false,
+        "description": "This is Xamã. Todos os maiores hits em uma só playlist.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wtq5k"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO3wtq5k",
+        "id": "37i9dQZF1DZ06evO3wtq5k",
+        "images": [
+          {
+            "height": null,
+            "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO3wtq5k-default.jpg",
+            "width": null
+          }
+        ],
+        "name": "This Is Xamã",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "ZtZRgAAAAADLiANa9KVELCEXrn1l4o0A",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO3wtq5k/tracks",
+          "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DZ06evO3wtq5k"
+      },
+      {
+        "collaborative": false,
+        "description": "This is Alok. Todos os maiores hits em uma só playlist.",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0ppY1a"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO0ppY1a",
+        "id": "37i9dQZF1DZ06evO0ppY1a",
+        "images": [
+          {
+            "height": null,
+            "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO0ppY1a-default.jpg",
+            "width": null
+          }
+        ],
+        "name": "This Is Alok",
+        "owner": {
+          "display_name": "Spotify",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/user/spotify"
+          },
+          "href": "https://api.spotify.com/v1/users/spotify",
+          "id": "spotify",
+          "type": "user",
+          "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "ZtZRgAAAAABWhEFnbDO3fk80ZSZJj/2D",
+        "tracks": {
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO0ppY1a/tracks",
+          "total": 51
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DZ06evO0ppY1a"
+      }
+    ],
+    "limit": 20,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 16
+  }
+}

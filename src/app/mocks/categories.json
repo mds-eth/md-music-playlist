@@ -1,0 +1,250 @@
+{
+  "href": "https://api.spotify.com/v1/browse/categories?offset=0&limit=20&locale=pt-BR,pt;q%3D0.9,en-US;q%3D0.8,en;q%3D0.7",
+  "items": [
+    {
+      "href": "https://api.spotify.com/v1/browse/categories/0JQ5DAt0tbjZptfcdMSKl3",
+      "id": "0JQ5DAt0tbjZptfcdMSKl3",
+      "icons": [
+        {
+          "height": 274,
+          "url": "https://t.scdn.co/images/728ed47fc1674feb95f7ac20236eb6d7.jpeg",
+          "width": 274
+        }
+      ],
+      "name": "Feito para você"
+    },
+    {
+      "href": "https://api.spotify.com/v1/browse/categories/0JQ5DAqbMKFz6FAsUtgAab",
+      "id": "0JQ5DAqbMKFz6FAsUtgAab",
+      "icons": [
+        {
+          "height": 274,
+          "url": "https://t.scdn.co/images/728ed47fc1674feb95f7ac20236eb6d7.jpeg",
+          "width": 274
+        }
+      ],
+      "name": "Lançamentos"
+    },
+    {
+      "href": "https://api.spotify.com/v1/browse/categories/0JQ5DAqbMKFNN285FvRwOf",
+      "id": "0JQ5DAqbMKFNN285FvRwOf",
+      "icons": [
+        {
+          "height": 274,
+          "url": "https://i.scdn.co/image/ab67fb8200005caf1596c1a70a3f4da739e2e79e",
+          "width": 274
+        }
+      ],
+      "name": "Marília Mendonça"
+    },
+    {
+      "href": "https://api.spotify.com/v1/browse/categories/0JQ5DAqbMKFKGQWi5egawY",
+      "id": "0JQ5DAqbMKFKGQWi5egawY",
+      "icons": [
+        {
+          "height": 274,
+          "url": "https://t.scdn.co/media/categories/brazilian_274x274.jpg",
+          "width": 274
+        }
+      ],
+      "name": "Brasil"
+    },
+    {
+      "href": "https://api.spotify.com/v1/browse/categories/0JQ5DAqbMKFOYnK3DPhvmm",
+      "id": "0JQ5DAqbMKFOYnK3DPhvmm",
+      "icons": [
+        {
+          "height": 274,
+          "url": "https://t.scdn.co/images/728ed47fc1674feb95f7ac20236eb6d7.jpeg",
+          "width": 274
+        }
+      ],
+      "name": "São João"
+    },
+    {
+      "href": "https://api.spotify.com/v1/browse/categories/0JQ5DAqbMKFJCTDO6ndZMP",
+      "id": "0JQ5DAqbMKFJCTDO6ndZMP",
+      "icons": [
+        {
+          "height": 274,
+          "url": "https://t.scdn.co/images/8e6eaf8b5c9449fdbb689a4fdace1f25.jpeg",
+          "width": 274
+        }
+      ],
+      "name": "Sertanejo"
+    },
+    {
+      "href": "https://api.spotify.com/v1/browse/categories/0JQ5DAudkNjCgYMM0TZXDw",
+      "id": "0JQ5DAudkNjCgYMM0TZXDw",
+      "icons": [
+        {
+          "height": 274,
+          "url": "https://charts-images.scdn.co/spotify-charts-logos/music_charts_search_arrow_274x274.jpeg",
+          "width": 274
+        }
+      ],
+      "name": "Paradas"
+    },
+    {
+      "href": "https://api.spotify.com/v1/browse/categories/0JQ5DAqbMKFCkm2Enfbj7Y",
+      "id": "0JQ5DAqbMKFCkm2Enfbj7Y",
+      "icons": [
+        {
+          "height": 274,
+          "url": "https://t.scdn.co/images/b307e822d6174e8cabe391da8196d70e.jpeg",
+          "width": 274
+        }
+      ],
+      "name": "Funk"
+    },
+    {
+      "href": "https://api.spotify.com/v1/browse/categories/0JQ5DAqbMKFEC4WFtoNRpw",
+      "id": "0JQ5DAqbMKFEC4WFtoNRpw",
+      "icons": [
+        {
+          "height": 274,
+          "url": "https://t.scdn.co/images/728ed47fc1674feb95f7ac20236eb6d7.jpeg",
+          "width": 274
+        }
+      ],
+      "name": "Pop"
+    },
+    {
+      "href": "https://api.spotify.com/v1/browse/categories/0JQ5DAqbMKFIRybaNTYXXy",
+      "id": "0JQ5DAqbMKFIRybaNTYXXy",
+      "icons": [
+        {
+          "height": 274,
+          "url": "https://t.scdn.co/images/728ed47fc1674feb95f7ac20236eb6d7.jpeg",
+          "width": 274
+        }
+      ],
+      "name": "No carro"
+    },
+    {
+      "href": "https://api.spotify.com/v1/browse/categories/0JQ5DAqbMKFQ00XGBls6ym",
+      "id": "0JQ5DAqbMKFQ00XGBls6ym",
+      "icons": [
+        {
+          "height": 274,
+          "url": "https://t.scdn.co/images/728ed47fc1674feb95f7ac20236eb6d7.jpeg",
+          "width": 274
+        }
+      ],
+      "name": "Hip hop"
+    },
+    {
+      "href": "https://api.spotify.com/v1/browse/categories/0JQ5DAtOnAEpjOgUKwXyxj",
+      "id": "0JQ5DAtOnAEpjOgUKwXyxj",
+      "icons": [
+        {
+          "height": 274,
+          "url": "https://t.scdn.co/images/728ed47fc1674feb95f7ac20236eb6d7.jpeg",
+          "width": 274
+        }
+      ],
+      "name": "Descobrir"
+    },
+    {
+      "href": "https://api.spotify.com/v1/browse/categories/0JQ5DAqbMKFARvdmw6EIef",
+      "id": "0JQ5DAqbMKFARvdmw6EIef",
+      "icons": [
+        {
+          "height": 274,
+          "url": "https://t.scdn.co/media/categories/brazilian_274x274.jpg",
+          "width": 274
+        }
+      ],
+      "name": "Samba e pagode"
+    },
+    {
+      "href": "https://api.spotify.com/v1/browse/categories/0JQ5DAqbMKFHCaWrPJOoNF",
+      "id": "0JQ5DAqbMKFHCaWrPJOoNF",
+      "icons": [
+        {
+          "height": 274,
+          "url": "https://t.scdn.co/images/8a57723010c549cfa8105c45ed2229f1.jpeg",
+          "width": 274
+        }
+      ],
+      "name": "MPB"
+    },
+    {
+      "href": "https://api.spotify.com/v1/browse/categories/0JQ5DAqbMKFM6qDjp13Rui",
+      "id": "0JQ5DAqbMKFM6qDjp13Rui",
+      "icons": [
+        {
+          "height": 274,
+          "url": "https://t.scdn.co/images/4254738a4b384c9e8b3cb197a8263523",
+          "width": 274
+        }
+      ],
+      "name": "AMPLIFIKA"
+    },
+    {
+      "href": "https://api.spotify.com/v1/browse/categories/0JQ5DAqbMKFHOzuVTgTizF",
+      "id": "0JQ5DAqbMKFHOzuVTgTizF",
+      "icons": [
+        {
+          "height": 274,
+          "url": "https://t.scdn.co/media/derived/edm-274x274_0ef612604200a9c14995432994455a6d_0_0_274_274.jpg",
+          "width": 274
+        }
+      ],
+      "name": "Dance/Eletrônica"
+    },
+    {
+      "href": "https://api.spotify.com/v1/browse/categories/0JQ5DAqbMKFy0OenPG51Av",
+      "id": "0JQ5DAqbMKFy0OenPG51Av",
+      "icons": [
+        {
+          "height": 274,
+          "url": "https://t.scdn.co/media/derived/icon-274x274_5ce6e0f681f0a76f9dcf9270dfd18489_0_0_274_274.jpg",
+          "width": 274
+        }
+      ],
+      "name": "Música Cristã"
+    },
+    {
+      "href": "https://api.spotify.com/v1/browse/categories/0JQ5DAqbMKFDXXwE9BDJAr",
+      "id": "0JQ5DAqbMKFDXXwE9BDJAr",
+      "icons": [
+        {
+          "height": 274,
+          "url": "https://t.scdn.co/media/derived/rock_9ce79e0a4ef901bbd10494f5b855d3cc_0_0_274_274.jpg",
+          "width": 274
+        }
+      ],
+      "name": "Rock"
+    },
+    {
+      "href": "https://api.spotify.com/v1/browse/categories/0JQ5DAqbMKFCWjUTdzaG0e",
+      "id": "0JQ5DAqbMKFCWjUTdzaG0e",
+      "icons": [
+        {
+          "height": 274,
+          "url": "https://t.scdn.co/images/fe06caf056474bc58862591cd60b57fc.jpeg",
+          "width": 274
+        }
+      ],
+      "name": "Indie"
+    },
+    {
+      "href": "https://api.spotify.com/v1/browse/categories/0JQ5DAqbMKFOOxftoKZxod",
+      "id": "0JQ5DAqbMKFOOxftoKZxod",
+      "icons": [
+        {
+          "height": 274,
+          "url": "https://i.scdn.co/image/ab67fb8200005cafed2d384c6d8708dc5394fc68",
+          "width": 274
+        }
+      ],
+      "name": "RADAR"
+    }
+  ],
+  "limit": 20,
+  "next": "https://api.spotify.com/v1/browse/categories?offset=20&limit=20&locale=pt-BR,pt;q%3D0.9,en-US;q%3D0.8,en;q%3D0.7",
+  "offset": 0,
+  "previous": null,
+  "total": 68
+}
